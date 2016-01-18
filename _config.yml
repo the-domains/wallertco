@@ -1,0 +1,13 @@
+layout_spectrum: 0.9489796
+color:
+  saturation: 0.2869465
+  brandStrength: 0.3776434
+  lightness: 0.7409292
+  brandColors:
+    - '#20170D'
+    - '#BCB49A'
+    - '#D7D1BC'
+    - '#88774B'
+  rhythmicContrast: 0.5738581
+typography_spectrum: 0.33029
+name: Wallertco
