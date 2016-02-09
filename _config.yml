@@ -1,13 +1,26 @@
-layout_spectrum: 0.9489796
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.2869465
-  brandStrength: 0.3776434
   lightness: 0.7409292
+  brandStrength: 0.4957035
   brandColors:
-    - '#20170D'
-    - '#BCB49A'
-    - '#D7D1BC'
-    - '#88774B'
+    - '#FFFFFF'
+    - '#94AAC2'
+    - '#6F5C5C'
+    - '#030302'
+    - '#A5C63A'
   rhythmicContrast: 0.5738581
 typography_spectrum: 0.33029
+layout_spectrum: 0.9489796
 name: Wallertco
